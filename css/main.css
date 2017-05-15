@@ -1,1 +1,8 @@
 /* Agrega aquí tus estilos*/
+body{
+	margin:0;
+}
+
+header h1{
+	background-color: #B0C4DE;
+}
